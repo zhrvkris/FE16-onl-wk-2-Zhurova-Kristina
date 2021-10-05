@@ -1,0 +1,41 @@
+.container {
+    width: 1170px;
+    margin: auto;
+}
+
+.card {
+    width: 350px;
+    border: 1px solid #808080;
+    margin: 20px auto;
+    background-color: rgb(161, 91, 91);
+}
+
+.card__content {
+    padding: 20px;
+    color: white;
+}
+
+.card__title {
+    font-size: 28px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.card__subtitle {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.card__text {
+    font-size: 16px;
+    line-height: 1.2;
+    margin-bottom: 40px;
+}
+
+.card-link {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
